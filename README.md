@@ -16,6 +16,6 @@
 <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/dotnet/512BD4" alt="ASP.NET" width="40" height="40"/>
+
 ---
 
